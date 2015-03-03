@@ -1,0 +1,12 @@
+young: 0 1
+pre-presbyopic: 0 1
+presbyopic: 0 1
+myope: 0 1
+hypermetrope: 0 1
+not-astigmatic: 0 1
+astigmatic: 0 1
+reduced-tear: 0 1
+normal-tear: 0 1
+hard-contact-lens: 0 1
+soft-contact-lens: 0 1
+no-contact-lens: 0 1

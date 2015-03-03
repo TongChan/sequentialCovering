@@ -1,0 +1,7 @@
+bread 0 1
+milk 0 1
+diapers 0 1
+beer 0 1
+eggs 0 1
+cola 0 1
+
